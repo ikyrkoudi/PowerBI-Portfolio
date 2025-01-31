@@ -1,6 +1,6 @@
 # 📊 Supermarket Sales Dashboard
 
-![Dashboard Preview](Supermarket_Sales_Preview.png)
+![Dashboard Preview](Supermarket_Sales_Preview.gif)
 
 ## 📝 Project Overview
 This Power BI dashboard analyzes sales performance, showing customer types, top-selling products categories, and regional sales for a supermaket chain.
@@ -12,9 +12,9 @@ This Power BI dashboard analyzes sales performance, showing customer types, top-
 
 ## 📂 Files
 - **Supermarket_Sales.pbix** → Full Power BI file  
-- **Supermarket_Sales.gif** → Interactive demo  
+- **Supermarket_Sales_Preview.gif** → Interactive demo
 
 ## 📥 Download & Use
 1️⃣ Download the `.pbix` file  
 2️⃣ Open it in **Power BI Desktop**  
-3️⃣ Connect your own data (if needed)
+3️⃣ Browse around and enjoy!
