@@ -1,6 +1,6 @@
 # 📊 Supermarket Sales Dashboard
 
-![Dashboard Preview](C:\Users\joank\OneDrive\Υπολογιστής\Bio\FinTech- Data Science for Finance\PowerBI Bootcamp\Supermarket_Sales_Preview.png)
+![Dashboard Preview](Supermarket_Sales_Preview.png)
 
 ## 📝 Project Overview
 This Power BI dashboard analyzes sales performance, showing customer types, top-selling products categories, and regional sales for a supermaket chain.
