@@ -7,7 +7,7 @@ This Power BI dashboard analyzes sales performance, showing customer types, top-
 
 ## 📌 Features
 ✔ Interactive filters for Customer Gender  
-✔ KPIs: Total Sales Invoices and Revenue 
+✔ KPIs: Total Sales Invoices and Revenue
 ✔ Dynamic visualizations (bar charts, donut chart, map, treemap and matrix)
 
 ## 📂 Files
