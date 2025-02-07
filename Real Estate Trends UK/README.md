@@ -1,6 +1,6 @@
 # 📊 Real Estate Trends in UK
 
-
+![Dashboard Preview](Real_Estate_Trends_UK_Preview.gif)
 
 ## 📝 Project Overview
 This Power BI dashboard analyzes the real estate prices and home sales in across 6 UK regions, including the country's home price index metric (annual difference in house purchase cost for a family).
