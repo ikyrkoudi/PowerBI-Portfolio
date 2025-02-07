@@ -3,13 +3,13 @@
 ![Dashboard Preview](Real_Estate_Trends_UK_Preview.gif)
 
 ## 📝 Project Overview
-This Power BI dashboard analyzes real estate price index and sales by region and type of home within UK.
+This Power BI dashboard analyzes the real estate prices and home sales in across 6 UK regions, including the country's home price index metric (annual difference in house purchase cost for a family).
 
 ## 📌 Features
-✔ Interactive filters for Region and Year 
-✔ KPIs: Total Sales and Average Home Price Index
-✔ Data drill based on date hierarchy
-✔ Dynamic visualizations (bar charts, donut chart, map, treemap and matrix)
+✔ KPIs: Sales Count and Total Sales £
+✔ Interactive slicer for Start Year and End Year
+✔ Dynamic visualizations (table, scatter chart, line chart and stacked bar chart)
+✔ Alternative chart view buttons (for Average, Minimum and Maximum prices - when none is selected all prices appear)
 
 ## 📂 Files
 - **Real_Estate_Trends_UK.pbix** → Full Power BI file  
