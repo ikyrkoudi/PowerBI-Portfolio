@@ -3,7 +3,7 @@
 ![Dashboard Preview](CD_Records_Preview.gif)
 
 ## 📝 Project Overview
-Currently working on this project. This Power BI dashboard will analyze old CD contents, track information and file characteristics.
+Currently working on this project. This Power BI dashboard analyzes old CD contents, their tracks' information and files' characteristics.
 
 ## 📌 Features
 ✔ Interactive filters 
