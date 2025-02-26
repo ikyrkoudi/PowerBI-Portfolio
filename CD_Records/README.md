@@ -1,6 +1,6 @@
 # 📊 CD Records Dashboard
 
-![Dashboard Preview](CD_Records_Preview.gif)
+![Dashboard Preview](CD_Records_Preview.jpg)
 
 ## 📝 Project Overview
 Currently working on this project. This Power BI dashboard analyzes old CD contents, their tracks' information and files' characteristics.
