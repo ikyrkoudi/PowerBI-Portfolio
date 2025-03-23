@@ -1,4 +1,6 @@
 # PowerBI-Portfolio
 This is my PowerBI portfolio!
 
-My collection of demo dashboards created through my learning process. You can advise the README files for descriptions, features and quick walkthroughs.
+A collection of demo dashboards that I prepare while honing my Power BI skills. You are welcome to browse around and get inspired. In each project you can advise the README file for dashboard preview, description and featuresi included. All used sources are mentioned on the reports.
+
+Thanks for visiting! Enjoy!
