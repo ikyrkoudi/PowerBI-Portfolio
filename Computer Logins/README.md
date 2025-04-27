@@ -1,4 +1,4 @@
-# 📊 CD Records Dashboard
+# 📊 Computer Logins Dashboard
 
 ![Dashboard Preview](Computer_Logins_Preview.jpg)
 
