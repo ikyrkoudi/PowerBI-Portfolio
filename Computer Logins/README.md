@@ -1,14 +1,14 @@
 # 📊 Computer Logins Dashboard
 
-![Dashboard Preview](Computer_Logins_Preview.jpg)
+![Dashboard Preview](Computer Logins.jpg)
 
 ## 📝 Project Overview
-Currently working on this project. This Power BI dashboard analyzes computer login activity by user, frequency and more.
+Currently working on this project. This Power BI dashboard analyzes computer login activity by user and summarizes the available data in an admin view.
 
 ## 📌 Features
 ✔ Transform data with M queries
-✔ Sankey chart, Smart narrative visual, Barchart
-✔ Filters with selected interaction
+✔ Card, Calendar heatmap (using Matrix), Linechart, Sankey chart, Barchart
+✔ Synced filters & Navigation buttons
 ✔ DAX functions
 
 ## 📂 Files
