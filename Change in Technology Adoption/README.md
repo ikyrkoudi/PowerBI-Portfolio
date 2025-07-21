@@ -8,10 +8,13 @@ This Power BI dashboard, created for participating in the PBI10 Dataviz Contest,
 ## 📌 Features
 ✔ Custom tooltips
 ✔ Visuals as filters 
-✔ Dynamic visualizations (table vs matrix, area chart, stacked column chart, donut chart)
+✔ Dynamic visualizations (cards, overflowing donut charts, stacked donut charts, tables and slicers)
 ✔ Custom legends
 ✔ Use of multiple layers
+✔ Conditional formatting
 ✔ DAX formulas for data transformation
+✔ Use of image URLs to load icons
+
 
 ## 📂 Files
 - **PBI10_Change_in_Technology_Adoption.pbix** → Full Power BI file
