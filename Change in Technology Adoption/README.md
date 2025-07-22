@@ -5,6 +5,8 @@
 ## 📝 Project Overview
 This Power BI dashboard, created for participating in the PBI10 Dataviz Contest, analyses the global adoption pace of communication technologies (fixed telephone vs mobile phone vs internet) since 2010. Is your region open or resistant to changes and how does it compare to other regions?
 
+[Link to Power BI Contest Gallery post](https://community.fabric.microsoft.com/t5/Contests-Gallery/PBI10-Change-in-Technology-Adoption/m-p/4765918)
+
 ## 📌 Features
 ✔ Custom tooltips
 ✔ Visuals as filters 
