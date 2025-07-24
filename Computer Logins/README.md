@@ -3,16 +3,17 @@
 ![Dashboard Preview](Computer Logins.jpg)
 
 ## 📝 Project Overview
-Currently working on this project. This Power BI dashboard analyzes computer login activity by user and summarizes the available data in an admin view.
+This Power BI dashboard analyzes computer login activity by user and summarizes the available data in an admin view.
 
 ## 📌 Features
-✔ Transform data with M queries
-✔ Card, Calendar heatmap (using Matrix), Linechart, Sankey chart, Barchart
-✔ Synced filters & Navigation buttons
+✔ Card, Calendar heatmap (using Matrix), Matrix with Sparklines and Data Bars
+✔ Navigation buttons
+✔ Drillthrough feature
 ✔ DAX functions
+✔ Date table (incl. date hierarchy)
 
 ## 📂 Files
-- **Computer_Logins.pbix** → Full Power BI file  --Coming soon
+- **Computer_Logins.pbix** → Full Power BI file
 - **Computer_Logins.gif** → Interactive demo --Coming soon
 
 ## 📥 Download & Use
