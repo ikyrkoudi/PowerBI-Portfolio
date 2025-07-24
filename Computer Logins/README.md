@@ -1,6 +1,6 @@
 # 📊 Computer Logins Dashboard
 
-![Dashboard Preview](Computer Logins.jpg)
+![Dashboard Preview](Computer_Logins_Preview.gif)
 
 ## 📝 Project Overview
 This Power BI dashboard analyzes computer login activity by user and summarizes the available data in an admin view.
@@ -14,7 +14,7 @@ This Power BI dashboard analyzes computer login activity by user and summarizes 
 
 ## 📂 Files
 - **Computer_Logins.pbix** → Full Power BI file
-- **Computer_Logins.gif** → Interactive demo --Coming soon
+- **Computer_Logins_Preview.gif** → Interactive demo
 
 ## 📥 Download & Use
 1️⃣ Download the `.pbix` file  
