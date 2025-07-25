@@ -5,4 +5,4 @@ A collection of demo dashboards that I prepare while honing my Power BI skills. 
 
 Thanks for visiting! Enjoy!
 
-![Dashboard Collage Banner](Dashboard_Collage.PNG)
+![Dashboard Collage Banner](Dashboard_Collage.png)
