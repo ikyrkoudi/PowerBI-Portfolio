@@ -1,4 +1,4 @@
-# 📊 CD Records Dashboard
+# 📊 Change in Technology Adoption Dashboard
 
 ![Dashboard Preview](PBI10_Change_in_Technology_Adoption.gif)
 

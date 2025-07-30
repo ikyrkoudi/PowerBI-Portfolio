@@ -1,4 +1,4 @@
-# 📊 Supermarket Sales Dashboard
+# 📊 Employee Performance Dashboard
 
 ![Dashboard Preview](Employee_Performance_Preview.gif)
 
